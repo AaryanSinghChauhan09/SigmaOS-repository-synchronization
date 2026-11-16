@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-repository-synchronization"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS repository-synchronization component - package_infra"
+
+[lib]
+name = "repository_synchronization"
+path = "src/lib.rs"
